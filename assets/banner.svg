@@ -1,1 +1,43 @@
+<svg width="1200" height="260" viewBox="0 0 1200 260" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="260" fill="#0D1117"/>
 
+  <line x1="120" y1="45" x2="1080" y2="45"
+        stroke="#30363D"
+        stroke-width="2"/>
+
+  <line x1="120" y1="215" x2="1080" y2="215"
+        stroke="#30363D"
+        stroke-width="2"/>
+
+  <text
+      x="600"
+      y="105"
+      text-anchor="middle"
+      fill="#F0F6FC"
+      font-size="42"
+      font-family="Segoe UI, Arial, sans-serif"
+      font-weight="700">
+      HARSHIL BAROT
+  </text>
+
+  <text
+      x="600"
+      y="145"
+      text-anchor="middle"
+      fill="#58A6FF"
+      font-size="24"
+      font-family="Segoe UI, Arial, sans-serif">
+      Founder @ Akshar Nirmaan
+  </text>
+
+  <text
+      x="600"
+      y="178"
+      text-anchor="middle"
+      fill="#8B949E"
+      font-size="18"
+      font-family="Segoe UI, Arial, sans-serif">
+      Building Digital Products • Full Stack Developer
+  </text>
+
+</svg>
