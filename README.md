@@ -2,9 +2,6 @@
 <!--           HERO SECTION           -->
 <!-- =============================== -->
 
-<p align="center">
-  <img src="./assets/banner.svg" width="100%" alt="Harshil Barot Banner">
-</p>
 
 <h1 align="center">Harshil Barot</h1>
 
@@ -15,22 +12,18 @@ Building Digital Products • Full Stack Developer
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/harshil-barot-211513353">
-<img src="https://skillicons.dev/icons?i=linkedin" height="32">
+<a href="https://www.linkedin.com/in/harshil-barot-211513353" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="38" />
 </a>
 
-&nbsp;&nbsp;&nbsp;
 
 <a href="mailto:contact.aksharnirmaan@gmail.com">
-<img src="https://img.icons8.com/color/48/gmail-new.png" height="32">
+  <img src="https://img.icons8.com/color/48/gmail-new.png" height="38" />
 </a>
 
-&nbsp;&nbsp;&nbsp;
-
-<a href="https://github.com/Harshil0265">
-<img src="https://skillicons.dev/icons?i=github" height="32">
+<a href="https://github.com/Harshil0265" target="_blank">
+  <img src="https://skillicons.dev/icons?i=github" height="38" />
 </a>
-
 </p>
 
 <p align="center">
