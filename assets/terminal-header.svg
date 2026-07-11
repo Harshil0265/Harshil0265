@@ -1,0 +1,27 @@
+<svg width="1200" height="60" viewBox="0 0 1200 60" fill="none" xmlns="http://www.w3.org/2000/svg">
+
+  <!-- Terminal Background -->
+  <rect x="1" y="1" width="1198" height="58" rx="10"
+        fill="#161B22"
+        stroke="#30363D"
+        stroke-width="2"/>
+
+  <!-- macOS Window Buttons -->
+  <circle cx="28" cy="30" r="6" fill="#FF5F57"/>
+  <circle cx="50" cy="30" r="6" fill="#FEBC2E"/>
+  <circle cx="72" cy="30" r="6" fill="#28C840"/>
+
+  <!-- Terminal Title -->
+  <text
+      x="600"
+      y="36"
+      text-anchor="middle"
+      fill="#C9D1D9"
+      font-size="18"
+      font-family="JetBrains Mono, Consolas, monospace">
+
+      harshil@aksharnirmaan:~$
+
+  </text>
+
+</svg>
